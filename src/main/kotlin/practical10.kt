@@ -1,11 +1,11 @@
 
 class Car(type:String, model:String, price:Int, owner:String, miles:Int){
 
-    var typee:String = type
-    var modell =model
-    var pricee:Int = price
-    var ownerr = owner
-    var miless:Int = miles
+    val typee:String = type
+    val modell =model
+    val pricee:Int = price
+    val ownerr = owner
+    val miless:Int = miles
     fun getCarInfo() {
         println("Selling Price of Car: " + (pricee - miless).toString() + "rs")
         println("Actual price: " + pricee.toString() + "rs")
