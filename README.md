@@ -13,5 +13,7 @@ Output 1.4
 
 Output 1.5
 ![image](https://user-images.githubusercontent.com/110885313/186206303-ae4fceab-714c-4f32-91a7-8dd07f268d6b.png)
+
 Output 1.6
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/110885313/186209471-b4744ff7-425e-4543-8ef3-187fca5a8391.png)
+
