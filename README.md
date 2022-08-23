@@ -17,3 +17,5 @@ Output 1.5
 Output 1.6
 ![image](https://user-images.githubusercontent.com/110885313/186209471-b4744ff7-425e-4543-8ef3-187fca5a8391.png)
 
+Output 1.7
+![image](https://user-images.githubusercontent.com/110885313/186212748-c1cdb9cd-fa74-4291-9e88-20250a3e0bed.png)
