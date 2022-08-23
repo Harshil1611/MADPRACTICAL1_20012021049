@@ -32,3 +32,9 @@ Output 1.9
 Output 1.10
 ![image](https://user-images.githubusercontent.com/110885313/186219544-50365c16-3311-4078-8319-c6c7eef5eafe.png)
 
+OUTPUT 1.11
+1ST
+![image](https://user-images.githubusercontent.com/110885313/186231656-9449ece1-dcb9-49ec-96cc-be6cca2f422a.png)
+2ND
+![image](https://user-images.githubusercontent.com/110885313/186231711-93a9c761-3e51-4912-8726-ab3575454320.png)
+
